@@ -1119,7 +1119,7 @@ section.lazy-placeholder:after {
   background: #03ffd0;
   padding-top: 30px;
   padding-bottom: 30px;
-  background: linear-gradient(0deg, #ff00ac, #03ffd0);
+  background: linear-gradient(0deg, #f504a7, #03ffd0);
 }
 .cid-rNkB3DAp2e .image-block {
   margin: auto;
@@ -1140,24 +1140,40 @@ section.lazy-placeholder:after {
 .cid-rHyJKegKZZ {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-color: #ff00ac;
+  background-color: #f504a7;
 }
 .cid-rHyJKegKZZ H2 {
   color: #ffffff;
 }
 .cid-rHyJKegKZZ .mbr-section-subtitle {
-  color: #03fff6;
+  color: #92fffb;
 }
 .cid-rHyJKegKZZ DIV {
   text-align: center;
 }
-.cid-rMzl1pUYsN {
-  padding-top: 30px;
+.cid-rHOpmh9Ns4 {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rMzl1pUYsN H2 {
+.cid-rHOpmh9Ns4 .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rHOpmh9Ns4 .section-text {
+  padding: 2rem 0;
   color: #232323;
+}
+.cid-rHOpmh9Ns4 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rHOpmh9Ns4 .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rKPV93Kp0d {
   background: #ffffff;
@@ -1374,29 +1390,13 @@ section.lazy-placeholder:after {
 .cid-rNjCjEItHm .mbr-section-text {
   color: #232323;
 }
-.cid-rHOpmh9Ns4 {
-  padding-top: 0px;
+.cid-rMzl1pUYsN {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rHOpmh9Ns4 .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rHOpmh9Ns4 .section-text {
-  padding: 2rem 0;
+.cid-rMzl1pUYsN H2 {
   color: #232323;
-}
-.cid-rHOpmh9Ns4 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rHOpmh9Ns4 .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-rKKOtvQVWp {
   padding-top: 0px;
@@ -1446,7 +1446,7 @@ section.lazy-placeholder:after {
 .cid-rHQg4J4zBd {
   padding-top: 45px;
   padding-bottom: 15px;
-  background-color: #780394;
+  background-color: #ff00ac;
 }
 .cid-rHQg4J4zBd .mbr-section-subtitle {
   color: #767676;
@@ -1554,7 +1554,7 @@ section.lazy-placeholder:after {
 .cid-rKKTcYsuBB {
   padding-top: 45px;
   padding-bottom: 15px;
-  background-color: #980dba;
+  background-color: #ff00ac;
 }
 .cid-rKKTcYsuBB .mbr-section-subtitle {
   color: #767676;
@@ -1582,7 +1582,7 @@ section.lazy-placeholder:after {
 }
 .cid-rKKU89x9uF .card-title,
 .cid-rKKU89x9uF .card-img {
-  color: #780394;
+  color: #ff00ac;
 }
 .cid-rKKRAJUg2k {
   padding-top: 30px;
@@ -1613,7 +1613,7 @@ section.lazy-placeholder:after {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #e30000;
+  color: #ff00ac;
 }
 .cid-rKKRAJUg2k .period {
   display: block;
@@ -1635,7 +1635,7 @@ section.lazy-placeholder:after {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #e30000;
+  color: #ff00ac;
 }
 .cid-rKKRAJUg2k .countdown-cont {
   max-width: 700px;
@@ -1773,7 +1773,7 @@ section.lazy-placeholder:after {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #232323;
+  color: #ff00ac;
 }
 .cid-rMyaZQNfmy .period {
   display: block;
@@ -1795,7 +1795,7 @@ section.lazy-placeholder:after {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #232323;
+  color: #ff00ac;
 }
 .cid-rMyaZQNfmy .countdown-cont {
   max-width: 700px;
@@ -1855,25 +1855,6 @@ section.lazy-placeholder:after {
 }
 .cid-rKVyHGq474 .card-wrapper {
   height: 100%;
-}
-.cid-rMyzT3Rowq {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mulher-pensativa-2-800x563.jpg");
-}
-.cid-rMyzT3Rowq H1 {
-  color: #fc8807;
-}
-.cid-rMyzT3Rowq .mbr-text,
-.cid-rMyzT3Rowq .mbr-section-btn {
-  color: #ffffff;
-  text-align: left;
-}
-.cid-rMyzT3Rowq H3 {
-  color: #767676;
-}
-.cid-rMyzT3Rowq B {
-  color: #0afc07;
 }
 .cid-rMy9A81MCS {
   padding-top: 15px;
