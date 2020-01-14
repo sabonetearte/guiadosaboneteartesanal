@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Sabonetes Artesanais - Monetizze ",
+    "name": "Guia do sabonete Artesanal - hotmart",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -81,7 +81,7 @@
         "url": "https://fonts.googleapis.com/css?family=Satisfy:400"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/logo-nova-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/qguia-do-sabonete-artesanal-hotmart3-128x128-1.png",
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
