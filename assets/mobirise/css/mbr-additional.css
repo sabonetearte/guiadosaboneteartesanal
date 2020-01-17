@@ -2084,6 +2084,28 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rNNRUOLYHJ {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rNNRUOLYHJ .image-block {
+  margin: auto;
+}
+.cid-rNNRUOLYHJ figcaption {
+  position: relative;
+}
+.cid-rNNRUOLYHJ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rNNRUOLYHJ .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rKLjNrd2SC {
   padding-top: 45px;
   padding-bottom: 15px;
