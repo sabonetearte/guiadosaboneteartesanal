@@ -1196,6 +1196,26 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rOBWw0mwUg {
+  background: #ffffff;
+}
+.cid-rOBWw0mwUg .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rOBWw0mwUg figcaption {
+  position: relative;
+}
+.cid-rOBWw0mwUg figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rOBWw0mwUg .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rNkTf3fCyS {
   padding-top: 45px;
   padding-bottom: 75px;
