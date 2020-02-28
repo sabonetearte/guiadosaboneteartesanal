@@ -3885,38 +3885,16 @@ section.lazy-placeholder:after {
 .cid-rNRwUDdgvB .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rNRwUErVW6 {
-  background: #92fffb;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #f504a7, #92fffb);
-}
-.cid-rNRwUErVW6 .image-block {
-  margin: auto;
-}
-.cid-rNRwUErVW6 figcaption {
-  position: relative;
-}
-.cid-rNRwUErVW6 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rNRwUErVW6 .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rNRwUFcgTP {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-color: #f504a7;
+  background-color: #710b9b;
 }
 .cid-rNRwUFcgTP H2 {
   color: #ffffff;
 }
 .cid-rNRwUFcgTP .mbr-section-subtitle {
-  color: #03ffd0;
+  color: #f7ed4a;
 }
 .cid-rNRwUFcgTP DIV {
   text-align: center;
