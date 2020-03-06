@@ -2648,6 +2648,20 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rSsQxyDCzO {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rSsQxyDCzO .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rSsQxyDCzO .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rNRdEhOJGn {
   background: #ffffff;
   padding-top: 30px;
