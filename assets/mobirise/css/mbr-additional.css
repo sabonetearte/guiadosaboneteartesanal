@@ -2662,24 +2662,48 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rNRdEhOJGn {
+.cid-rSsTKdMsVg {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rSsTKdMsVg .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rSsTKdMsVg .section-text {
+  padding: 2rem 0;
+  color: #073b4c;
+}
+.cid-rSsTKdMsVg .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rSsTKdMsVg .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rSsTy8PhF0 {
   background: #ffffff;
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
 }
-.cid-rNRdEhOJGn .image-block {
+.cid-rSsTy8PhF0 .image-block {
   margin: auto;
 }
-.cid-rNRdEhOJGn figcaption {
+.cid-rSsTy8PhF0 figcaption {
   position: relative;
 }
-.cid-rNRdEhOJGn figcaption div {
+.cid-rSsTy8PhF0 figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-rNRdEhOJGn .image-block {
+  .cid-rSsTy8PhF0 .image-block {
     width: 100% !important;
   }
 }
@@ -2711,6 +2735,27 @@ section.lazy-placeholder:after {
 }
 .cid-rNRMKGIrzu .mbr-text {
   color: #ff00ac;
+}
+.cid-rNRdEhOJGn {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rNRdEhOJGn .image-block {
+  margin: auto;
+}
+.cid-rNRdEhOJGn figcaption {
+  position: relative;
+}
+.cid-rNRdEhOJGn figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rNRdEhOJGn .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rNRdEiCEaV {
   padding-top: 45px;
