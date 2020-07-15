@@ -90,10 +90,10 @@
     "uniqCompNum": 301,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
-    "noImageResize": false,
+    "noImageResize": true,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "\n\t\t<script id=\"hotmart_launcher_script\">\n\t\t\t(function(l,a,u,n,c,h,e,r){l['HotmartLauncherObject']=c;l[c]=l[c]||function(){\n\t\t\t(l[c].q=l[c].q||[]).push(arguments)},l[c].l=1*new Date();h=a.createElement(u),\n\t\t\te=a.getElementsByTagName(u)[0];h.async=1;h.src=n;e.parentNode.insertBefore(h,e)\n\t\t\t})(window,document,'script','//launcher.hotmart.com/launcher.js','hot');\n\n\t\t\thot('account','a6067c1d-98de-454e-aac2-00b9df32e3d8');\n\t\t</script>\n\n\t\t<script id=\"hotmart_launcher_script\">\n\t\t\t(function(l,a,u,n,c,h,e,r){l['HotmartLauncherObject']=c;l[c]=l[c]||function(){\n\t\t\t(l[c].q=l[c].q||[]).push(arguments)},l[c].l=1*new Date();h=a.createElement(u),\n\t\t\te=a.getElementsByTagName(u)[0];h.async=1;h.src=n;e.parentNode.insertBefore(h,e)\n\t\t\t})(window,document,'script','//launcher.hotmart.com/launcher.js','hot');\n\n\t\t\thot('account','a6067c1d-98de-454e-aac2-00b9df32e3d8');\n\t\t</script>\n"
+    "google-analytics": "\n"
   },
   "pages": {
     "index.html": {
