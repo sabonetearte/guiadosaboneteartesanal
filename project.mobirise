@@ -88,12 +88,13 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "uniqCompNum": 301,
-    "versionPublish": "4.11.6",
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "noImageResize": true,
+    "noImageResize": null,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "\n"
+    "google-analytics": "\n",
+    "imageResize": false
   },
   "pages": {
     "index.html": {
