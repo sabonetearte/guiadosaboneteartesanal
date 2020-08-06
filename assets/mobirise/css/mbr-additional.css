@@ -2581,7 +2581,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-rNRdEe2cNO button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3733,7 +3733,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #6b0086;
 }
 .cid-rNRwUDdgvB button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5001,7 +5001,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-rNRwUDdgvB button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5066,10 +5066,6 @@ section.lazy-placeholder:after {
 .cid-rNRwUDdgvB .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item,
 .cid-rNRwUDdgvB .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
-}
-.cid-rNRwUDdgvB .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rNRwUDdgvB .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
 }
 .cid-rNRwUDdgvB .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rNRwUDdgvB .collapsed .navbar-collapse.show .navbar-buttons {
@@ -5171,10 +5167,6 @@ section.lazy-placeholder:after {
   .cid-rNRwUDdgvB .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rNRwUDdgvB .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rNRwUDdgvB .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rNRwUDdgvB .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rNRwUDdgvB .navbar-collapse.collapsing .navbar-buttons,
   .cid-rNRwUDdgvB .navbar-collapse.show .navbar-buttons {
@@ -5576,7 +5568,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-rPttyoZKh8 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -6798,11 +6790,6 @@ section.lazy-placeholder:after {
 .cid-s6QhwiOJbI .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-s6QhwiOJbI .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 1024px) {
-  .cid-s6QhwiOJbI .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-s6QhwiOJbI .collapsed button.navbar-toggler {
   display: block;
