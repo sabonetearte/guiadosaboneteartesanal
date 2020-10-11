@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Guia do sabonete Artesanal - hotmart",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -17,8 +17,8 @@
         "display1Size": "2.8",
         "display2Font": "Oswald",
         "display2Size": "2.8",
-        "display5Font": "Oswald",
-        "display5Size": "2.2",
+        "display5Font": "Arimo",
+        "display5Size": "1.8",
         "display7Font": "Rubik",
         "display7Size": "1.4",
         "display4Font": "Rubik",
@@ -79,6 +79,11 @@
         "css": "'Satisfy', handwriting",
         "name": "Satisfy",
         "url": "https://fonts.googleapis.com/css?family=Satisfy:400"
+      },
+      {
+        "css": "'Arimo', sans-serif",
+        "name": "Arimo",
+        "url": "https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i"
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/qguia-do-sabonete-artesanal-hotmart3-128x128-1.png",
@@ -87,7 +92,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 364,
+    "uniqCompNum": 366,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "noImageResize": null,
@@ -538,17 +543,18 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#232323"
+              "color": "#ff006c"
             },
             "H2": {
-              "color": "#ff006c",
-              "text-align": "center"
+              "color": "#ffffff"
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\"><b><br></b><b>APRENDA FAZER SABONETES, COSMETICOS &amp; PRODUTOS AROMÁTICOS ARTESANAIS</b><br></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-4\"><b>Mesmo que você seja total iniciante nesse ramo. Você será Capaz de Fazer maravilhosos Sabonetes e outros produtos.</b></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rXAm7WaGQ0",
-          "_anchor": "content4-78",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><br>⭐️⭐️⭐️⭐️⭐️\n<div><b>+ de 20 mil Alunas em todo Brasil!</b></div><div><br><b>ATENÇÃO! \n</b></div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><div><span style=\"font-size: calc(1.28rem + (0.52 * ((100vw - 20rem) / 28)));\"><b>APRENDA FAZER SABONETES, COSMETICOS &amp; PRODUTOS AROMÁTICOS ARTESANAIS ATRAVÉZ DO GUIA MAIS VENDIDO DO BRASIL!</b></span></div><br><div><span style=\"font-size: calc(1.28rem + (0.52 * ((100vw - 20rem) / 28)));\">Se você deseja vender na Sua Loja ou Porta a Porta, redes sociais, ou usar e economizar é para você!<br></span><br></div><div><div><span style=\"font-size: 1.4rem;\"><b><i>👇ASSISTIR 👇</i></b></span></div><div><br></div></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content4-a5",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sd9Ar7Rbkh",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -569,7 +575,7 @@
             },
             ".section-text": {
               "padding": "2rem 0",
-              "color": "#ffffff"
+              "color": "#232323"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -581,7 +587,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".section-text\" mbr-text>Aproveite seu&nbsp;<b>tempo livre</b>&nbsp;e Aprenda com este <b>Passo a Passo&nbsp;fazer Sabonetes Artesanais</b> e <b>Produtos Aromáticos </b>\n<div>O <b>Guia do Sabonete Artesanal </b>é para ajudar você a&nbsp;<b>complementar</b> sua <b>Renda</b>&nbsp;ou até mesmo para você trabalhar por conta própria <b>apartir de casa.</b></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>\n<a href=\"https://pay.hotmart.com/F19938194F?checkoutMode=10?src=notif \"><img name=\"misto\" id=\"prova-social\" src=\"https://cursodeaph.com/online/imagens/n1.png\" class=\"img-responsive\">\n</a><!--FIM 7 DIAS DE GARANTIA-->\n<!-- jQuery (obrigatório para plugins JavaScript do Bootstrap) -->\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js\" integrity=\"sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=\" crossorigin=\"anonymous\"></script>\n<!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->\n<style type=\"text/css\">\n\t#prova-social{position: fixed; bottom: 2%; left: 2%}\n</style>\n<script>\n    $('#prova-social').hide();\n\n    var $doc = $('html, body');\n    $('.deslisar').click(function() {\n        $doc.animate({\n            scrollTop: $( $.attr(this, 'href') ).offset().top\n        }, 2000);\n        return false;\n    });\n\n    var nrImagem = 0;\n    var imagens = [];\n    var refrescar = 20; // mudar imagem de 1 em 1 segundo\n\n    // colocar aqui todas as imagens, seguindo a ordem numérica\n   // colocar aqui todas as imagens, seguindo a ordem numérica\n    imagens[0] = \"https://cursodeaph.com/online/imagens/n1.png\";\n    imagens[1] = \"https://cursodeaph.com/online/imagens/n2.png\";\n    imagens[2] = \"https://cursodeaph.com/online/imagens/n3.png\";\n    imagens[3] = \"https://cursodeaph.com/online/imagens/n4.png\";\n    imagens[4] = \"https://cursodeaph.com/online/imagens/n5.png\";\n    imagens[5] = \"https://cursodeaph.com/online/imagens/n6.png\";\n    imagens[6] = \"https://cursodeaph.com/online/imagens/n7.png\";\n    imagens[7] = \"https://cursodeaph.com/online/imagens/n8.png\";\n    imagens[8] = \"https://cursodeaph.com/online/imagens/n9.png\";\n    imagens[9] = \"https://cursodeaph.com/online/imagens/n10.png\";\n    imagens[10] = \"https://cursodeaph.com/online/imagens/n11.png\";\n    imagens[11] = \"https://cursodeaph.com/online/imagens/n12.png\";\n    imagens[12] = \"https://cursodeaph.com/online/imagens/n13.png\";\n    imagens[13] = \"https://cursodeaph.com/online/imagens/n14.png\";\n    imagens[14] = \"https://cursodeaph.com/online/imagens/n15.png\";\n\n    //...\n\n    function rodarImagens() {\n        setTimeout(function(){  $('#prova-social').fadeIn(1000); }, 3000);\n        setTimeout(function(){  $('#prova-social').fadeOut(1000); }, 10000);\n        document.images[\"misto\"].src = imagens[nrImagem++];\n\n        if (nrImagem >= imagens.length)\n            nrImagem = 0;\n\n        setTimeout(\"rodarImagens()\", refrescar * 1000);\n    }\n\n    rodarImagens();\n</script>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".section-text\" mbr-text>Aproveite seu&nbsp;<b>tempo livre</b>&nbsp;e Aprenda com este <b>Passo a Passo&nbsp;fazer Sabonetes Artesanais</b> e <b>Produtos Aromáticos </b>\n<div>O <b>Guia do Sabonete Artesanal </b>é para ajudar você a&nbsp;<b>complementar</b> sua <b>Renda</b>&nbsp;ou até mesmo para você trabalhar por conta própria <b>apartir de casa.</b></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>\n",
           "_cid": "s4KIvqIb8A",
           "_anchor": "content9-86",
           "_protectedParams": [],
