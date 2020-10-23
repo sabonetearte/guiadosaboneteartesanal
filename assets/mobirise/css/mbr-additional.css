@@ -20,19 +20,19 @@ body {
 }
 .display-2 {
   font-family: 'Oswald', sans-serif;
-  font-size: 2rem;
+  font-size: 2.8rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 4.48rem;
 }
 .display-4 {
-  font-family: 'Arimo', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Rubik', sans-serif;
+  font-size: 1rem;
   font-display: swap;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 .display-5 {
   font-family: 'Arimo', sans-serif;
@@ -62,14 +62,14 @@ body {
     line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.24rem;
+    font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.44rem;
@@ -1079,24 +1079,24 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-segnygI419 {
+.cid-sebU4LapR3 {
   background: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
 }
-.cid-segnygI419 .image-block {
+.cid-sebU4LapR3 .image-block {
   margin: auto;
 }
-.cid-segnygI419 figcaption {
+.cid-sebU4LapR3 figcaption {
   position: relative;
 }
-.cid-segnygI419 figcaption div {
+.cid-sebU4LapR3 figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-segnygI419 .image-block {
+  .cid-sebU4LapR3 .image-block {
     width: 100% !important;
   }
 }
